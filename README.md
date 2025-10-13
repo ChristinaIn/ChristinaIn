@@ -10,7 +10,7 @@
 
 <div id="badges">
     <a href="mailto:malyshkriloveandrap@mail.ru" target="_blank">
-      <img src="https://storage.yandexcloud.net/roz-wiki/thumb/Mail.Ru_Logo_2018.svg/1024px-Mail.Ru_Logo_2018.svg.png?20240206045458" title="e-mail" width="40" height="40" alt="e-mail" />
+      <img src="https://avatars.mds.yandex.net/i?id=b3754b1d59fad89260bff71094470ff6_l-16346982-images-thumbs&n=13" title="e-mail" width="40" height="40" alt="e-mail" />
     </a>
     <a href="https://t.me/Christin101" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" title="telegram" width="40" height="40" alt="telegram" />
@@ -19,14 +19,12 @@
 
   ---
 
-<h2 align="center">Что я использую в работе:</h2>
-
 ## Тестовая документация:
 
 <div>
   <a href="https://www.atlassian.com/ru/software/jira" title="jira"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/></a>&nbsp
   <a href="https://qase.io/" title="qase"><img src="https://luna1.co/eb0187.png" alt="qase" width="40" height="40"/></a>&nbsp
-  <a href="https://excel.cloud.microsoft/en-us/?wdOrigin=MARKETING.EXCEL.SIGNIN" title="excel"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1174px-Microsoft_Excel_2013-2019_logo.svg.png" alt="excel" width="40" height="40"/>&nbsp
+  <a href="https://excel.cloud.microsoft/en-us/?wdOrigin=MARKETING.EXCEL.SIGNIN" title="excel"><img src="https://avatars.mds.yandex.net/i?id=0f6d9cf32afcedaa732042994d336d5ae6d67377-16433653-images-thumbs&n=13" alt="excel" width="40" height="40"/>&nbsp
 </div>
 
 ---
@@ -61,5 +59,7 @@
   <a href="https://code.visualstudio.com/" title="vscode"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>&nbsp
   <a href="https://www.gnu.org/software/bash/manual/bash.html" title="bash"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" alt="bash" width="40" height="40"/></a>&nbsp
   </div>
+
+  ---
 
   ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ChristinaIn)
