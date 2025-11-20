@@ -1,12 +1,14 @@
-## Привет, я Кристина!
+# Привет, я Кристина!
 
 ---
 
-Я мануальный тестировщик. Я проверяю веб-приложения на наличие дефектов, и от меня зависит, что выпускаемый программный продукт получится качественным. Мне нравится заниматься проверкой работоспособности модулей ПО, и если я нахожу расхождения с ожидаемым поведением, описываю проблему, и стараюсь найти суть ее возникновения.
+<p>Я мануальный тестировщик. Я занимаюсь проверкой работоспособности ПО, и если нахожу расхождения с ожидаемым поведением, описываю проблему, и стараюсь найти суть ее возникновения. От меня зависит, что выпускаемый программный продукт будет качественным.
+
+В конце этой страницы можно ознакомиться с работой, проделанной мной в рамках обучения на QA Engineer - <a href="#test_artifacts">Тестовые артефакты</a></p>
 
 ---
 
-## Связь со мной:
+### Связь со мной:
 
 <div id="badges">
     <a href="mailto:malyshkriloveandrap@mail.ru" target="_blank">
@@ -19,12 +21,12 @@
 
   ---
 
-## Тестовая документация:
+### Тестовая документация:
 
 <div>
   <a href="https://www.atlassian.com/ru/software/jira" title="jira"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/></a>&nbsp
   <a href="https://qase.io/" title="qase"><img src="https://luna1.co/eb0187.png" alt="qase" width="40" height="40"/></a>&nbsp
-  <a href="https://excel.cloud.microsoft/en-us/?wdOrigin=MARKETING.EXCEL.SIGNIN" title="excel"><img src="https://avatars.mds.yandex.net/i?id=0f6d9cf32afcedaa732042994d336d5ae6d67377-16433653-images-thumbs&n=13" alt="excel" width="40" height="40"/>&nbsp
+  <a href="https://excel.cloud.microsoft/en-us/?wdOrigin=MARKETING.EXCEL.SIGNIN" title="excel"><img src="https://avatars.mds.yandex.net/i?id=0f6d9cf32afcedaa732042994d336d5ae6d67377-16433653-images-thumbs&n=13" alt="excel" width="40" height="40"/></a>&nbsp
 </div>
 
 ---
@@ -61,5 +63,20 @@
   </div>
 
   ---
+
+  <p><a name="test_artifacts"></a></p>
+
+  ### Тестовые артефакты
+
+  <div>
+  <ul>
+    <li><a href="https://github.com/ChristinaIn/web_testing">Тестирование интернет-магазина</a> – исследовательское и функциональное тестирование</li>
+    <li><a href="https://github.com/ChristinaIn/api_testing">Тестирование API</a> с помощью Postman и документации из Swagger</li>
+    <li><a href="https://github.com/ChristinaIn/sql">Работа с Базами Данных</a> в СУБД MySQL</li>
+    <li><a href="https://github.com/ChristinaIn/mobile_testing">Тестирование мобильного приложения</a> - чек-лист, тест-кейсы, отчеты о дефектах</li>
+    <li><a href="https://github.com/ChristinaIn/traffic_interception">Перехват и изменение трафика</a>, используя снифферы Charles Proxy и Proxyman</li>
+    <li><a href="https://github.com/ChristinaIn/bash">Обработка команд в CLI</a>, используя bash</li>
+    </ul>
+  </div>
 
   ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ChristinaIn)
